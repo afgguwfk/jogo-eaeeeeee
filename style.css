@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(184, 248, 188);
+}
+h1{
+    color:#6959CD
+    
+}
+.organizacao{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+    
+    
+}
+img{
+    width:300px
+    
+}
+.imagens{
+    border-color: black
+    
+}
+.imagens:hover{
+    transform: scale(1.2)
+}
